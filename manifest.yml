@@ -1,0 +1,7 @@
+---
+applications:
+- name: pivotal
+  memory: 512M
+  host: pivotal
+  domain: cfapps.io
+  path: target/pivotal-0.0.1-SNAPSHOT.war
